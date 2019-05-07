@@ -1,0 +1,28 @@
+2019-05-06 18:15:37,785 [main] INFO Google - Browser Opened
+2019-05-06 18:15:37,850 [main] INFO Google - Implicit wait given
+2019-05-06 18:15:40,601 [main] INFO Google - Url opened
+2019-05-06 18:26:53,804 [main] INFO Google - Browser Opened
+2019-05-06 18:26:53,838 [main] INFO Google - Implicit wait given
+2019-05-06 18:26:59,086 [main] INFO Google - Url opened
+2019-05-06 18:38:33,990 [main] DEBUG Google - message
+2019-05-06 18:38:34,282 [main] DEBUG Google - Implicit wait given
+2019-05-06 18:38:36,869 [main] DEBUG Google - Url opened
+2019-05-06 19:01:27,989 [main] DEBUG logs - debug message
+2019-05-06 19:14:01,469 [main] DEBUG logs - debug message
+2019-05-06 19:14:03,532 [main] INFO logs - info message
+2019-05-06 19:14:53,346 [main] DEBUG logs - debug message
+2019-05-06 19:14:56,333 [main] INFO logs - info message
+2019-05-06 19:15:57,893 [main] DEBUG logs - browser is successfully opened
+2019-05-06 19:16:00,431 [main] INFO logs - Google URL is open
+2019-05-07 12:22:36,688 [main] INFO utility.log - Test is starting
+2019-05-07 12:22:48,054 [main] INFO utility.log - Sucessfully opened the URL
+2019-05-07 12:38:13,997 [main] INFO utility.log - Test is starting
+2019-05-07 12:38:27,693 [main] INFO utility.log - Sucessfully opened the URL
+2019-05-07 12:40:12,332 [main] INFO utility.log - Test is starting
+2019-05-07 12:40:23,664 [main] INFO utility.log - Sucessfully opened the URL
+2019-05-07 12:55:58,267 [main] INFO logs - Google URL is open
+2019-05-07 12:59:13,389 [main] INFO logs - Google URL is open
+2019-05-07 13:00:21,758 [main] INFO utility.logname - Test is starting
+2019-05-07 13:00:30,640 [main] INFO utility.logname - Successfully opened the URL
+2019-05-07 13:01:28,811 [main] DEBUG logs - browser is successfully opened
+2019-05-07 13:01:31,144 [main] INFO logs - Google URL is open

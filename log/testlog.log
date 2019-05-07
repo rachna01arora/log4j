@@ -1,0 +1,28 @@
+2019-05-06 18:15:37,785 - Google -INFO - Browser Opened
+2019-05-06 18:15:37,850 - Google -INFO - Implicit wait given
+2019-05-06 18:15:40,601 - Google -INFO - Url opened
+2019-05-06 18:26:53,804 - Google -INFO - Browser Opened
+2019-05-06 18:26:53,838 - Google -INFO - Implicit wait given
+2019-05-06 18:26:59,086 - Google -INFO - Url opened
+2019-05-06 18:38:33,990 - Google -DEBUG - message
+2019-05-06 18:38:34,282 - Google -DEBUG - Implicit wait given
+2019-05-06 18:38:36,869 - Google -DEBUG - Url opened
+2019-05-06 19:01:27,989 - logs -DEBUG - debug message
+2019-05-06 19:14:01,469 - logs -DEBUG - debug message
+2019-05-06 19:14:03,532 - logs -INFO - info message
+2019-05-06 19:14:53,346 - logs -DEBUG - debug message
+2019-05-06 19:14:56,333 - logs -INFO - info message
+2019-05-06 19:15:57,893 - logs -DEBUG - browser is successfully opened
+2019-05-06 19:16:00,431 - logs -INFO - Google URL is open
+2019-05-07 12:22:36,688 - utility.log -INFO - Test is starting
+2019-05-07 12:22:48,054 - utility.log -INFO - Sucessfully opened the URL
+2019-05-07 12:38:13,997 - utility.log -INFO - Test is starting
+2019-05-07 12:38:27,693 - utility.log -INFO - Sucessfully opened the URL
+2019-05-07 12:40:12,332 - utility.log -INFO - Test is starting
+2019-05-07 12:40:23,664 - utility.log -INFO - Sucessfully opened the URL
+2019-05-07 12:55:58,267 - logs -INFO - Google URL is open
+2019-05-07 12:59:13,389 - logs -INFO - Google URL is open
+2019-05-07 13:00:21,758 - utility.logname -INFO - Test is starting
+2019-05-07 13:00:30,640 - utility.logname -INFO - Successfully opened the URL
+2019-05-07 13:01:28,811 - logs -DEBUG - browser is successfully opened
+2019-05-07 13:01:31,144 - logs -INFO - Google URL is open
